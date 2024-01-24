@@ -1,0 +1,5 @@
+US Patent 28,993 does not make sufficient changes to have a functional difference from competing designs. Therefore, a functional model is not made of it.
+
+Justification: the invention of this design is that the needle is given an epicycloidal movement instead of a more standard cycloidal one. This makes for the same function, however: to change the imported mechanical energy to be appropriate for the thread movement.
+
+Further insight: modern designs for sewing machines tend to only give the needle a cycloidal movement. This is likely because there is no functional difference between a cycloidal needle-driver and an epicycloidal needle-driver, and there may be some small advantages of the epicycloidal drive but the disadvantages are obvious when one sees an epicycloidal assembly (it requires more parts which are more difficult to manufacture [ie. gears] and involves a more time-consuming assembly process).
