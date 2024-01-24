@@ -1,0 +1,7 @@
+This is yet another device in which there is not enough information to make a functional model. However, it's operation is very interesting.
+
+Function:
+	1. to guide the feed of a cloth around an eyelet-hole for the purposes of securing the hole by sewing around it with a zig-zag sewing machine.
+
+Innovation:
+ 	1. the device is a small piece fitted to an otherwise ordinary sewing machine which changes the feed to go around a point rather than linearly. In other machines before this (according to the patent) if such a movement was required there was a whole different mechanism to achieve this circular feed, and it usually also added a lot of complexity and cost to the machine. This patent, however, was able to acheive the same result by using a simple pin which would fit inside of an eyelet-hole and guided by the presser-foot, and therefore could be made to work by simply replacing the presser-foot of any existing machine. The disadvantage of such a machine would be that the diameter of the pin would need to match the eyelet-hole, and therefore an operator would need to have multiple of such pins lying about for different diameters. This is somewhat inconvenient for the operator, especially if one of these pins happened to get lost. However, this likely inconvenience would also likely be worth dealing with if the consumer could save a significant amount of money by only modifying their existing machine with a simple mechanism rather than purchasing an entirely new machine fit for this particular purpose.
