@@ -1,0 +1,1 @@
+Similar spiel to the last Willcox patent (US Patent 42,036) in that this patent describes simply a secondary concept variant and does not fulfill a particular new function, therefore a functional model is not required to be built. There is also insufficient information to be able to create a functional model of a complete machine.
